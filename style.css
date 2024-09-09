@@ -1,0 +1,70 @@
+html {
+  background-color: #cabfb6;
+}
+
+body {
+  width: 600px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 0px auto;
+  background-color: white;
+  padding-bottom: 175px;
+}
+
+.debate {
+  background-color: #c9793b;
+  width: 200px;
+  text-align: center;
+  margin: 0px auto;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+img {
+  width: 600px;
+}
+
+#Image {
+  text-align: center;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.title {
+  font-family: "Proza Libre", sans-serif;
+}
+
+#android {
+  background-color: #a4c93b;
+  width: 250px;
+  border-radius: 5px;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#apple {
+  background-color: #b6bcca;
+  width: 300px;
+  border-radius: 5px;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
